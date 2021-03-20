@@ -8,7 +8,12 @@ import 'styles/iconfont.css'
 import fastClick from 'fastclick'
 fastClick.attach(document.body);
 Vue.config.productionTip = false
+import VueAwesomeSwiper from 'vue-awesome-swiper'
 
+// import style
+import 'swiper/dist/css/swiper.css'
+
+Vue.use(VueAwesomeSwiper, /* { default options with global component } */)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

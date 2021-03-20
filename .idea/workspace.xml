@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="508ac8cf-0336-416a-80bb-77fcb708bbc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/var.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/components/Icons.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/components/Recommend.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/components/Swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/components/Weekend.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/mock/city.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/mock/detail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/mock/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/Home.vue" afterDir="false" />
     </list>
@@ -26,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -47,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Stylus" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -59,6 +56,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/pages/home" />
     </key>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616127873879</updated>
       <workItem from="1616127875682" duration="3057000" />
-      <workItem from="1616132758412" duration="6192000" />
+      <workItem from="1616132758412" duration="20910000" />
     </task>
     <servers />
   </component>
@@ -86,13 +86,23 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1616139724527" />
+    <state x="297" y="47" key="CommitChangelistDialog2" timestamp="1616224805631">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1616159997124" />
+    <state x="297" y="47" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1616224805631" />
     <state x="372" y="235" key="EditFileWatcherDialog" timestamp="1616139240884">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="372" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1616139240884" />
-    <state x="204" y="80" key="SettingsEditor" timestamp="1616129144017">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="204" y="58" key="SettingsEditor" timestamp="1616156320976">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="204" y="58" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1616156320976" />
     <state x="204" y="80" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1616129144017" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616159262525">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1616159262525" />
   </component>
 </project>
